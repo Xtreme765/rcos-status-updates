@@ -19,9 +19,8 @@ tying up loose ends, unless these loose ends turn out to be hard to tie together
 
 ## Notes
 
-I created a separate .md file detailing this but I'll write it again here just in case:
-I accidently uploaded week 07 a second time with the name as week 08 a few weeks back.
-My numbering is slightly ahead of where it should be at but the intervals at which
-they were uploaded has remained consistent. To clarify, week 09 is actually week 08,
-week 10 is week 09, and week 11 is week 10. Hope this doesn't create too much
-confusion and sorry for the trouble.
+I confused myself on whether I uploaded a duplicated status update or not, it turns 
+out that this was not the case. When going down the status update history I became 
+confused with my reverting status update for week 07 and upon further inspection 
+it seems I mis-titled the push description it and immediately reverted it to week 08.
+Sorry for any confusion.
